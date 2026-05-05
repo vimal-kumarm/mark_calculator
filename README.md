@@ -45,3 +45,72 @@ A beginner-friendly web application built using **HTML**, **CSS**, and **JavaScr
 
 ## 📁 Project Structure# mark_calculator
 A responsive Student Marks Calculator web app built with HTML, CSS &amp; JavaScript — calculates average marks, assigns grades and gives performance feedback in real time.
+
+---
+
+## ⚙️ How to Run Locally
+
+```bash
+# Step 1 — Clone the repository
+git clone https://github.com/YOUR_USERNAME/student-marks-calculator.git
+
+# Step 2 — Open the folder
+cd student-marks-calculator
+
+# Step 3 — Open in browser
+# Just double-click index.html OR open with VS Code Live Server
+```
+
+---
+
+## 📊 How It Works
+
+1. User enters **student name** and **marks for 3 subjects**
+2. JavaScript reads the values using `document.getElementById()`
+3. Calculates **average** = (mark1 + mark2 + mark3) / 3
+4. Uses `if/else` conditions to assign a **grade**
+5. Displays result with **color-coded feedback** using DOM manipulation
+
+---
+
+## 🧠 Concepts Used (Day 5 — JavaScript Basics)
+
+- Variables: `let`, `const`
+- Functions and Arrow functions
+- `if / else if / else` conditions
+- DOM manipulation: `getElementById`, `innerHTML`, `style`
+- Input validation
+- Number conversion: `Number()`, `toFixed()`
+- Event handling: `onclick`
+
+---
+
+## 🗺️ Part of My Learning Journey
+
+This project is **Day 5** of my 90-day Python Full Stack Developer roadmap.
+
+| Week | Topics |
+|------|--------|
+| Week 1 | HTML, CSS, JavaScript basics |
+| Week 2 | Python OOP, File handling, Git |
+| Week 3-4 | Django + Django REST Framework |
+| Week 5 | FastAPI + PostgreSQL |
+| Week 6 | Projects + Docker + Deploy |
+| Week 7-8 | Resume + Apply + Interviews |
+
+---
+
+## 👨‍💻 Author
+
+**Vimal** — BE CSE Final Year Student  
+📍 Kallakurichi, Tamil Nadu  
+🔗 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)  
+🐙 [GitHub](https://github.com/YOUR_USERNAME)
+
+---
+
+## 📌 Status
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Day](https://img.shields.io/badge/Day-5%20of%2090-blue)
+![Tech](https://img.shields.io/badge/Tech-HTML%20CSS%20JS-orange)
