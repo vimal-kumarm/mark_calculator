@@ -103,9 +103,9 @@ This project is **Day 5** of my 90-day Python Full Stack Developer roadmap.
 ## 👨‍💻 Author
 
 **Vimal** — BE CSE Final Year Student  
-📍 Kallakurichi, Tamil Nadu  
-🔗 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)  
-🐙 [GitHub](https://github.com/YOUR_USERNAME)
+📍 Namakkal, Tamil Nadu  
+🔗 [LinkedIn]([https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/vimalkumar-m-1a0a812a6/))  
+🐙 [GitHub](https://github.com/vimal-kumarm)
 
 ---
 
